@@ -1,2 +1,2 @@
-Orangepi3-lts_3.0.8_debian_bullseye_server_linux5.16.17.img.sha.xz filter=lfs diff=lfs merge=lfs -text
-Orangepi3-lts_3.0.8_debian_bullseye_server_linux5.16.17.img.xz filter=lfs diff=lfs merge=lfs -text
+Orangepicm4_1.0.4_debian_bullseye_server_linux5.10.160.img.sha.xz filter=lfs diff=lfs merge=lfs -text
+Orangepicm4_1.0.4_debian_bullseye_server_linux5.10.160.img.xz filter=lfs diff=lfs merge=lfs -text
